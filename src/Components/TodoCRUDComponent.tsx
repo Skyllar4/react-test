@@ -1,6 +1,6 @@
 import React from "react";
-import {CreateTodoComponent} from './CreateTodoComponent'
-import {UpdateComponent} from './UpdateComponent'
+import {CreateTodoComponent} from './RigthComponents/CreateTodoComponent'
+import {UpdateComponent} from './RigthComponents/UpdateComponent'
 
 export function TodoCRUDContainerComponent(props: any) {
     return <div className="TodoCRUDContainer">

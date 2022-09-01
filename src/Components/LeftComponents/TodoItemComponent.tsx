@@ -1,5 +1,5 @@
 import React from "react";
-import { todoArr } from "./StateUpComponent";
+import { todoArr } from "../StateUpComponent";
 
 export function TodoItemComponent(props: any) {
 

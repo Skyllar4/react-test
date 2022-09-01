@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import { TodoItemComponent } from "./TodoItemComponent";
-import { dataAndFooCont } from "../InterFaces/interfaces";
+import { dataAndFooCont } from "../../InterFaces/interfaces";
 
 export function TodoListComponent<T extends dataAndFooCont>(props: T) { // Компонент, отрисовывает список дел
 

@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import { todoArr } from "./StateUpComponent";
+import { todoArr } from "../StateUpComponent";
 import {SelectItemsComponent} from './SelectItemsComponent'
 
 export function UpdateComponent(props: any) {

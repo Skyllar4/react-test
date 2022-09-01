@@ -1,5 +1,5 @@
 import React from "react";
-import { TodoListComponent } from "./TodoListComponent";
+import { TodoListComponent } from "./LeftComponents/TodoListComponent";
 import { dataAndFoo } from "../InterFaces/interfaces";
 
 export function TodoContainerComponent(props: dataAndFoo) {
